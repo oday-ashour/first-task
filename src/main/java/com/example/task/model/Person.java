@@ -3,6 +3,9 @@ package com.example.task.model;
 import java.io.Serializable;
 import java.util.Objects;
 
+/**
+ * This is a model class to Person information
+ */
 public class Person implements Serializable {
 
     private Integer id;
